@@ -1,0 +1,18 @@
+ldi R0,0002
+ldi R7,0002
+ldi R5,002A
+ldi R4,0032
+mov R1, R0
+JC R4,Z
+mul R1,R0
+DEC R7
+JMP R5
+nop
+mov (R0)+,R1
+ldi R7,00B1
+st X,R0
+add R0,@(R7)+
+st X,R4
+sub (R7),R0
+ld R6,X
+INC R3

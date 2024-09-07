@@ -1,0 +1,10 @@
+D:\vs2022\repos\计算机原理\计算机原理\bin\Release\计算机原理.exe.config
+D:\vs2022\repos\计算机原理\计算机原理\bin\Release\计算机原理.exe
+D:\vs2022\repos\计算机原理\计算机原理\bin\Release\计算机原理.pdb
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.csproj.AssemblyReference.cache
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.Form1.resources
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.Properties.Resources.resources
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.csproj.GenerateResource.cache
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.csproj.CoreCompileInputs.cache
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.exe
+D:\vs2022\repos\计算机原理\计算机原理\obj\Release\计算机原理.pdb
